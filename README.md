@@ -43,6 +43,8 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png" alt="react" width="auto" height="40"/>
   <img width="auto" height="40" alt="git" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/512px-Git-logo.svg.png?20160811101906">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/600px-Octicons-mark-github.svg.png?20180806170715" alt="github" width="auto" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/512px-Sass_Logo_Color.svg.png?20150315202757" alt="github" width="auto" height="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/styled-components-1.svg" alt="github" width="auto" height="40"/>
 <p align="center">
   
 <br/>
